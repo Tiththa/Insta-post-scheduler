@@ -1,3 +1,3 @@
 # Insta-post-scheduler
 
-Customizable
+Configure your settings in the script
